@@ -153,10 +153,10 @@ net_pf = runopf(net_ori,mpopt);
 
 
 %% Run case for the whole year
-n_tt= 8760; %% number of hours in the year
+n_tt = 8760; %% number of hours in the year
 
 % - voltage mangitude at bus 11
-- voltage mangitude at bus 12
+% - voltage mangitude at bus 12
 % - voltage mangitude at bus 24
 % - active power flow at bus 11
 % - active power flow at bus 12
